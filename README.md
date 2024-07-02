@@ -1,0 +1,1 @@
+Notes on course [Codecademy: Creat REST APIs with Spring and Java](https://www.codecademy.com/paths/create-rest-apis-with-spring-and-java)
